@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shizukiz.github.io/Selfsite/#aboutme](https://shizukiz.github.io/Selfsite/#aboutme)
 
-- 📝 I regularly write inarticles on [Visual Studio](Visual Studio)
+- 📝 I regularly write my Code in [Visual Studio/Code]
 
 - 📫 How to reach me on Discord **marvin#8888**
 
