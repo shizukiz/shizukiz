@@ -13,8 +13,6 @@
 
 - 📝 I regularly write my Code in [Visual Studio/Code]
 
-- 📫 How to reach me on Discord **marvin#8888**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/marvienzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvienzz" height="30" width="40" /></a>
