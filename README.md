@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **C# and .Net**
 
-- 👨‍💻 All of my projects are available at [https://shizukiz.github.io/Selfsite/#aboutme](https://shizukiz.github.io/Selfsite/#aboutme)
+- 👨‍💻 All of my projects are available at [My Site](https://shizukiz.github.io/Personal-Site/#aboutme)
 
 - 📝 I regularly write my Code in [Visual Studio/Code]
 
