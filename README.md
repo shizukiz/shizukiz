@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://cdn.discordapp.com/banners/887013509194473472/54c8e52d99b0b3b366f96140eb86915a.png?size=1024"><img src="https://cdn.discordapp.com/banners/887013509194473472/54c8e52d99b0b3b366f96140eb86915a.png?size=1024" alt="shizukiz" /></a> </p>
 
-- 🔭 I’m currently working on [BlackJack Card Game](https://github.com/shizukiz/BlackJackV2)
+- 🩸 I’m currently working on [BlackJack Card Game](https://github.com/shizukiz/BlackJackV2)
 
-- 🌱 I’m currently learning **C#, .Net & HTML/CSS**
+- 💊 I’m currently learning **C#, .Net & HTML/CSS**
 
-- 🤝 I’m looking for help with **C# and .Net**
+- 🔪 I’m looking for help with **C# and .Net**
 
-- 👨‍💻 All of my projects are available at [My Site](https://shizukiz.github.io/Personal-Site/#aboutme)
+- 🩹 All of my projects are available at [My Site](https://shizukiz.github.io/Personal-Site/#aboutme)
 
-- 📝 I regularly write my Code in [Visual Studio/Code]
+- 💉 I regularly write my Code in [Visual Studio/Code]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
