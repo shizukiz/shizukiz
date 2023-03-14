@@ -5,7 +5,7 @@
 
 - 🩸 I’m currently working on [BlackJack Card Game](https://github.com/shizukiz/BlackJackV2)
 
-- 💊 I’m currently learning **C#, .Net & HTML/CSS**
+- 💊 I’m learning **C#, .Net & HTML/CSS**
 
 - 🔪 I’m looking for help with **C# and .Net**
 
