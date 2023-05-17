@@ -1,7 +1,7 @@
 <h1 align="center">Hi im Shizuki</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://cdn.discordapp.com/banners/887013509194473472/54c8e52d99b0b3b366f96140eb86915a.png?size=1024"><img src="https://cdn.discordapp.com/banners/887013509194473472/54c8e52d99b0b3b366f96140eb86915a.png?size=1024" alt="shizukiz" /></a> </p>
+<p align="left"> <a href=""><img src="https://cdn.discordapp.com/banners/887013509194473472/54c8e52d99b0b3b366f96140eb86915a.png?size=1024" alt="shizukiz" /></a> </p>
 
 - 🩸 I’m currently working on [BlackJack Card Game](https://github.com/shizukiz/BlackJackV2)
 
