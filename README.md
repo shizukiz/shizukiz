@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🩸 I’m currently working on [BlackJack Card Game](https://github.com/shizukiz/BlackJackV2)
+- 🩸 I’m currently working on [BlackJack Card Game](MVVM)
 
 - 💊 I’m learning **C#, .Net & HTML/CSS**
 
