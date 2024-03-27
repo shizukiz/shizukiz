@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🩸 I’m currently working on [HTML]([PortfolioWebsite](https://github.com/zblutrot/PortfolioWebsite))
+- 🩸 I’m currently working on [HTML](https://github.com/zblutrot/PortfolioWebsite)
 
 - 💊 I’m learning **C#, .Net & HTML/CSS**
 
