@@ -2,13 +2,11 @@
 <h3 align="center">Software Developer</h3>
 
 
-- 🩸 I’m currently working on [MVVM](MVVM)
+- 🩸 I’m currently working on [HTML](PortfolioWebsite)
 
 - 💊 I’m learning **C#, .Net & HTML/CSS**
 
-- 🔪 I’m looking for help with **C# and .Net**
-
-- 🩹 All of my projects are available at [My Site](https://shizukiz.github.io/Personal-Site/#aboutme)
+- 🩹 All of my Sozials: [here](https://blutrot.net/)
 
 - 💉 I regularly write my Code in [Visual Studio/Code]
 
